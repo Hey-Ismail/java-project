@@ -1,4 +1,4 @@
-#A project that we have made in final term <br/>
+A project that we have made in final term <br/>
 we each members contributeed in this project <br/>
 <br/>
 Why we have chosen Foodie for project. <br/>
