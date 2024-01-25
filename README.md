@@ -1,6 +1,6 @@
 
 
-Foodie Project
+<h1>Foodie Project</h1>
 Introduction
 Welcome to the Foodie project! This collaborative effort represents the culmination of our collective efforts in the final term. Each member of our team has contributed their skills and expertise to create a project that we are proud to showcase.
 
