@@ -1,7 +1,7 @@
 
 
 <h1>Foodie Project</h1>
-<h1>Introduction</h1>
+<h2>Introduction</h2>
 <p>Welcome to the Foodie project! This collaborative effort represents the culmination of our collective efforts in the final term. Each member of our team has contributed their skills and expertise to create a project that we are proud to showcase.</p>
 <h1>Project Choice: Foodie</h1>
 <h2>Why Foodie?</h2>
